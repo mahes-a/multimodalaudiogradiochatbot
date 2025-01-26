@@ -1,0 +1,6 @@
+numpy
+python-dotenv
+gradio==5.13.1
+tqdm
+soundfile
+azure-identity
